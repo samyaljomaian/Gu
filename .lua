@@ -1,7 +1,7 @@
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
 local Window = Rayfield:CreateWindow({
-   Name = "TROLLING GUI",
+   Name = "Troll Gui",
    Icon = 0, -- Icon in Topbar. Can use Lucide Icons (string) or Roblox Image (number). 0 to use no icon (default).
    LoadingTitle = "by ASD",
    LoadingSubtitle = "Thank you for using my scripts",
@@ -11606,7 +11606,7 @@ print("end")
 })
 
 local Slider = MainTab:CreateSlider({
-   Name = "Gravity WOW",
+   Name = "Gravity Slider",
    Range = {0, 300},
    Increment = 1,
    Suffix = "Gravity",
