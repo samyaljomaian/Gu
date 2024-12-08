@@ -11618,7 +11618,7 @@ local Slider = MainTab:CreateSlider({
 })
 
 local Button = MainTab:CreateButton({
-   Name = "Button Example",
+   Name = "Yeet Gui",
    Callback = function()
         local lp = game:FindService("Players").LocalPlayer
 
